@@ -20,9 +20,30 @@ It's now time to update the portfolio once again and enhance it with all the new
 | Resume           | 10%    |
 | LinkedIn Profile | 10%    |
 
+
+## Requirements
+
+* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+
+* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+
+* Submit an updated resume
+
+* Submit an updated LinkedIn profile
+
+## Grading
+
+| Requirement      | Weight |
+| ---------------- | ------ |
+| Portfolio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
+
 ## MockUP
-https://prnt.sc/10w7vpn
-https://prnt.sc/10w7w2r
+![image](https://user-images.githubusercontent.com/40922162/112650904-e0191980-8e19-11eb-8db3-f0ea406a679c.png)
+
+![image](https://user-images.githubusercontent.com/40922162/112650920-e3aca080-8e19-11eb-88d9-7411c2c1dc13.png)
 
 ## URL
 
