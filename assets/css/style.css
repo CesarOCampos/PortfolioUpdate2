@@ -230,6 +230,10 @@ main {
     background-image: url("../images/OptimalTechMedia.png");
 }
 
+.gen-me {
+    background-image: url("../images/readmegen.png");
+}
+
 .led-wall {
     background-image: url("../images/WorkDayScheduler.png");
 }
@@ -240,6 +244,10 @@ main {
 
 .pastel-puzzles {
     background-image: url("../images/CodeQuiz.png");
+}
+
+.pastel-blank {
+    background-image: url("../images/notetaking.png");
 }
 
 .surf-report {
